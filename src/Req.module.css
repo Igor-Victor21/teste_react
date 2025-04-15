@@ -1,0 +1,29 @@
+
+.wrapPage{
+    padding-top: 1vh;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    background-color: black !important;
+    color: white;
+}
+
+.wrapCards{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;    
+}
+
+.input{
+    padding: 5px;
+    margin: 10px;
+}
+
+.tittleName{
+    width: 100%;
+    text-align: center;
+}
